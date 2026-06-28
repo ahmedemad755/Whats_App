@@ -12,7 +12,7 @@ A feature-rich WhatsApp-inspired messaging UI built with Flutter, following **Cl
 
 | Camera & Preview | Photo in Chat | Emoji Picker |
 |:----------------:|:-------------:|:------------:|
-| ![Camera](screenshots/PhotoPreviewScreenANDcamera_screanANDtextonphoto%20.png) | ![Photo in Chat](screenshots/phtopreview_inchat.png) | ![Emoji](screenshots/emoji.png) |
+| ![Camera](screenshots/PhotoPreviewScreenANDcamera_screanANDtextonphoto.png) | ![Photo in Chat](screenshots/phtopreview_inchat.png) | ![Emoji](screenshots/emoji.png) |
 
 | Attachment Sheet | Select Contact |
 |:----------------:|:--------------:|
