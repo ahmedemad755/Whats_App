@@ -5,6 +5,8 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+	<key>NSPhotoLibraryUsageDescription</key>
+<string>Need access to your photo library to send images</string>
 	<string>Whatsapp</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
@@ -41,6 +43,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access is required to take photos and videos.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone access is required to record voice messages and videos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo library access is required to send images and videos.</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
