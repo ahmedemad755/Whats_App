@@ -6,15 +6,17 @@ A feature-rich WhatsApp-inspired messaging UI built with Flutter, following **Cl
 
 ## Screenshots
 
-> Add your screenshots to a `screenshots/` folder at the project root, then they will appear here automatically.
-
 | Chats List | Chat Screen | Voice Recording |
 |:-----------:|:-----------:|:---------------:|
-| ![Chats](screenshots/chats_list.png) | ![Chat](screenshots/chat_screen.png) | ![Voice](screenshots/voice_recording.png) |
+| ![Chats List](screenshots/chat_list_screen.png) | ![Chat Screen](screenshots/chat_screen.png) | ![Voice Recording](screenshots/recording.png) |
 
-| Camera | Emoji Picker | Attachment Sheet |
-|:------:|:------------:|:----------------:|
-| ![Camera](screenshots/camera.png) | ![Emoji](screenshots/emoji_picker.png) | ![Attachment](screenshots/attachment_sheet.png) |
+| Camera & Preview | Photo in Chat | Emoji Picker |
+|:----------------:|:-------------:|:------------:|
+| ![Camera](screenshots/PhotoPreviewScreenANDcamera_screanANDtextonphoto%20.png) | ![Photo in Chat](screenshots/phtopreview_inchat.png) | ![Emoji](screenshots/emoji.png) |
+
+| Attachment Sheet | Select Contact |
+|:----------------:|:--------------:|
+| ![Attachment](screenshots/attachment_bottom_sheet_chat_screan.png) | ![Select Contact](screenshots/SelectContact.png) |
 
 ---
 
